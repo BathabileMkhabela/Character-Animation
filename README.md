@@ -1,2 +1,3 @@
 # Character-Animation
 Animating an character to pic and drop different balls with different colors
+In this project, our task was to animate a character performing a series of actions: jumping over a purple block, picking up a green ball and placing it in a green bin, then picking up a blue ball, climbing stairs, and placing it on a blue table. Finally, the character turns back, picks up a yellow ball, and climbs onto a yellow block. This animation serves as an interactive and educational tool for toddlers to learn about colors. Through engaging visuals and simple actions, children can enjoy and absorb color concepts in a fun and intuitive way.
